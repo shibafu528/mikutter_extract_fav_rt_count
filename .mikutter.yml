@@ -1,0 +1,10 @@
+---
+slug: :extract_fav_rt_count
+depends:
+  mikutter: 4.0.0
+  plugin:
+    - extract
+version: '1.0'
+author: shibafu528
+name: extract_fav_rt_count
+description: 抽出タブの条件に「ふぁぼられた数」「リツイートされた数」を追加します。
